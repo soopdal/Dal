@@ -5,6 +5,6 @@ date	‘17.07.18
 
 
             Settings
-Unity           Unity 2017.2.0b3
+Unity 2017.2.0b3
 
-Visual Studio   Visual Studio 2017 Community
+Visual Studio 2017 Community
