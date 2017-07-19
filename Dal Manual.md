@@ -1,7 +1,7 @@
             Author
-mail	soopdal@gmail.com
+M. mail	soopdal@gmail.com
 
-date	‘17.07.18
+D. date	‘17.07.18
 
 
             Settings
