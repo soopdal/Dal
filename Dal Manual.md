@@ -1,16 +1,16 @@
             Author
-M. mail	soopdal@gmail.com
+Mail	soopdal@gmail.com
 
-D. date	‘17.07.18
+Date	‘17.07.18
 
 
             Settings
-U. Unity 2017.2.0b3
+Unity 2017.2.0b3
 
-V. Visual Studio 2017 Community
+Visual Studio 2017 Community
 
             References
-K. Kotlin https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
+Kotlin https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
 
-ML. Machine Learning             https://ungkim.github.io/ml
+Machine Learning             https://ungkim.github.io/ml
 
