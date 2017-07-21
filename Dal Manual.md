@@ -19,39 +19,50 @@ Machine Learning             https://ungkim.github.io/ml
 
 
             Books
-.NET CBD Developing     https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
+.NET CBD Developing     
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
+A Bite of Python        
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=xD96CAAAQBAJ&pg=GBS.PA39
 
-A Bite of Python        https://play.google.com/books/reader?printsec=frontcover&output=reader&id=xD96CAAAQBAJ&pg=GBS.PA39
+C# Essense              
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=aH2LAgAAQBAJ&pg=GBS.PT147
 
-C# Essense              https://play.google.com/books/reader?printsec=frontcover&output=reader&id=aH2LAgAAQBAJ&pg=GBS.PT147
+Cloud Story             
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=1BnJCQAAQBAJ&pg=GBS.PP1
 
-Cloud Story             https://play.google.com/books/reader?printsec=frontcover&output=reader&id=1BnJCQAAQBAJ&pg=GBS.PP1
+Data Modeling           
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HQGPAgAAQBAJ&pg=GBS.PP1
 
+Difficult Cording       
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HHqqAwAAQBAJ&pg=GBS.PP16
 
-Data Modeling           https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HQGPAgAAQBAJ&pg=GBS.PP1
+Git                     
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
 
-Difficult Cording       https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HHqqAwAAQBAJ&pg=GBS.PP16
+Hanbit Network          
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=JCPFkiBalyUC
 
-Git                     https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
+How to work git         
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
 
+Javascript Promise      
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=gfTJCQAAQBAJ&pg=GBS.PA17
 
-Hanbit Network          https://play.google.com/books/reader?printsec=frontcover&output=reader&id=JCPFkiBalyUC
+JSP Bible               
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=UnvLCQAAQBAJ&pg=GBS.PP1
 
-How to work git         https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
+Object Oriented         
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=fR6OAgAAQBAJ&pg=GBS.PT1
 
-Javascript Promise      https://play.google.com/books/reader?printsec=frontcover&output=reader&id=gfTJCQAAQBAJ&pg=GBS.PA17
+Open Source             
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=pzCrAwAAQBAJ&pg=GBS.PP4
 
-JSP Bible               https://play.google.com/books/reader?printsec=frontcover&output=reader&id=UnvLCQAAQBAJ&pg=GBS.PP1
+RYU SDN Framework       
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=0oghBQAAQBAJ&pg=GBS.PP1
 
+Vert.x Framework        
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=5NHLCQAAQBAJ&pg=GBS.PP1
 
-Object Oriented         https://play.google.com/books/reader?printsec=frontcover&output=reader&id=fR6OAgAAQBAJ&pg=GBS.PT1
-
-Open Source             https://play.google.com/books/reader?printsec=frontcover&output=reader&id=pzCrAwAAQBAJ&pg=GBS.PP4
-
-RYU SDN Framework       https://play.google.com/books/reader?printsec=frontcover&output=reader&id=0oghBQAAQBAJ&pg=GBS.PP1
-
-
-Vert.x Framework        https://play.google.com/books/reader?printsec=frontcover&output=reader&id=5NHLCQAAQBAJ&pg=GBS.PP1
-
-Windows Store App       https://play.google.com/books/reader?printsec=frontcover&output=reader&id=eBINBAAAQBAJ
+Windows Store App       
+https://play.google.com/books/reader?printsec=frontcover&output=reader&id=eBINBAAAQBAJ
