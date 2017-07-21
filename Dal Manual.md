@@ -19,7 +19,7 @@ Machine Learning             https://ungkim.github.io/ml
 
 
             Books
-.NET CBD Developing     
+.NET CBD Developing in Korean     
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
 A Bite of Python        
