@@ -19,12 +19,7 @@ Machine Learning             https://ungkim.github.io/ml
 
 
             Books
-Legend
-
-(e)         in English
-
-(k)         in Korean
-
+            
 .NET CBD Developing (k)
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
@@ -72,3 +67,10 @@ https://play.google.com/books/reader?printsec=frontcover&output=reader&id=5NHLCQ
 
 Windows Store App (e)       
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=eBINBAAAQBAJ
+
+Legend
+
+(e)         in English
+
+(k)         in Korean
+
