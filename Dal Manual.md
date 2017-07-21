@@ -21,54 +21,54 @@ Machine Learning             https://ungkim.github.io/ml
             Books
 Legend
 
-(k)          in Korean
+(e)         in English
 
-
+(k)         in Korean
 
 .NET CBD Developing (k)
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
-A Bite of Python        
+A Bite of Python (k)       
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=xD96CAAAQBAJ&pg=GBS.PA39
 
-C# Essense              
+C# Essense (k)             
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=aH2LAgAAQBAJ&pg=GBS.PT147
 
-Cloud Story             
+Cloud Story Of The Programmers (k)            
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=1BnJCQAAQBAJ&pg=GBS.PP1
 
-Data Modeling           
+Data Modeling (k)          
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HQGPAgAAQBAJ&pg=GBS.PP1
 
-Difficult Cording       
+Difficult Cording (k)      
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=HHqqAwAAQBAJ&pg=GBS.PP16
 
-Git                     
+Git (k)                    
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
 
-Hanbit Network          
+Hanbit Network : The Fucture Of Publishing & Global Software (k)         
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=JCPFkiBalyUC
 
-How to work git         
+How to work git (k)        
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=QR3BhpxgnCgC&pg=GBS.PT41
 
-Javascript Promise      
+Javascript Promise (k)     
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=gfTJCQAAQBAJ&pg=GBS.PA17
 
-JSP Bible               
+JSP Bible (k)              
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=UnvLCQAAQBAJ&pg=GBS.PP1
 
-Object Oriented         
+The Story Of Object Oriented (k)        
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=fR6OAgAAQBAJ&pg=GBS.PT1
 
-Open Source             
+Open Source : The Voice Of The Revolution Of The Open Source (k)            
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=pzCrAwAAQBAJ&pg=GBS.PP4
 
-RYU SDN Framework       
+RYU SDN Framework (k)      
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=0oghBQAAQBAJ&pg=GBS.PP1
 
-Vert.x Framework        
+Vert.x Framework : URL Shortener (k)       
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=5NHLCQAAQBAJ&pg=GBS.PP1
 
-Windows Store App       
+Windows Store App (e)       
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=eBINBAAAQBAJ
