@@ -22,7 +22,9 @@ Machine Learning             https://ungkim.github.io/ml
 Legend
 
 (k)          in Korean
-            
+
+
+
 .NET CBD Developing (k)
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
