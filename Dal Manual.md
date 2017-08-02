@@ -15,7 +15,7 @@ Visual Studio 2017 Community
             References
 Kotlin https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
 
-Machine Learning             https://hungkim.github.io/ml
+Machine Learning             https://hunkim.github.io/ml
 
 
             Books
