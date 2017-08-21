@@ -12,6 +12,7 @@ Visual Studio 2017 Community
 
             WikiBooks
 Creating a Post Adventure Game      https://wikidocs.net/edit/book/946
+Free ebooks                         http://www.oreilly.com/programming/free/
 
             Youtube
 pope TV     https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ
