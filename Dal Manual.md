@@ -19,7 +19,7 @@ Free ebooks                         http://www.oreilly.com/programming/free/
 pope TV     https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ
 
             References
-Kotlin https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
+Kotlin      https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
 
 Machine Learning             https://hunkim.github.io/ml
 
