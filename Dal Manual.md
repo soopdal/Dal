@@ -13,20 +13,22 @@ Visual Studio 2017 Community
             WikiBooks
 Creating a Post Adventure Game      https://wikidocs.net/edit/book/946
 
-Free ebooks                         http://www.oreilly.com/programming/free/
+            Free ebooks                         
+Oreeilly                            http://www.oreilly.com/programming/free/
 
             Youtube
-pope TV     https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ
+pope TV                             https://www.youtube.com/channel/UC63J0Q5huHSlbNT3KxvAaHQ
 
             References
-Kotlin      https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
+Kotlin                              https://try.kotlinlang.org/#/UserProjects/dlvnc49qss0q1c2dnkfm8vvjov/i1q1k4upbckibnveu0cevftgvc
 
-Machine Learning             https://hunkim.github.io/ml
+Machine Learning                    https://hunkim.github.io/ml
 
 
             Books
             
 .NET CBD Developing (k)
+
 https://play.google.com/books/reader?printsec=frontcover&output=reader&id=132LAgAAQBAJ&pg=GBS.PT73.w.7.0.37
 
 A Bite of Python (k)       
