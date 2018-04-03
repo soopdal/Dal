@@ -5,6 +5,7 @@ Date	‘17.08.21 mon
 
             Programs
 Resharper                           https://www.jetbrains.com/resharper/download/
+
 Rescue Time                         https://www.rescuetime.com/
 
 
