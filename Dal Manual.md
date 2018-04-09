@@ -14,7 +14,7 @@ Unity 2017.2.0b3
 
 Visual Studio 2017 Community
 
-            WikiDocs
+            Wiki Docs
 Creating a Post Adventure Game      https://wikidocs.net/edit/book/946
 
             Free ebooks                         
